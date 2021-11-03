@@ -1,0 +1,5 @@
+URxvt.font: xft:Hack:pixelsize=16:antialias=true:hinting=true
+URxvt.boldFont: xft:Hack:pixelsize=16:antialias=true:hinting=true
+URxvt.scrollBar: false
+URxvt.perl-ext-common: resize-font    
+  
